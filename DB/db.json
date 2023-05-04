@@ -1,8 +1,72 @@
-{"camper":[
-    {"nombre":"Luis"
+{
+  "camper": [
+    {
+      "id": 1,
+      "nombre": "Luis"
     },
-    {"nombre":"Felipe"
+    {
+      "id": 2,
+      "nombre": "Felipe"
     },
-    {"nombre":"Maria"}
-]
+    {
+      "nombre": "Sherman",
+      "id": 3
+    },
+    {
+      "nombre": "Sherman",
+      "id": 4
+    },
+    {
+      "nombre": "Sherman",
+      "id": 5
+    },
+    {
+      "nombre": "Sherman",
+      "id": 6
+    },
+    {
+      "nombre": "Sherman",
+      "id": 7
+    },
+    {
+      "nombre": "Sherman",
+      "id": 8
+    },
+    {
+      "nombre": "Sherman",
+      "id": 9
+    },
+    {
+      "nombre": "Sherman",
+      "id": 10
+    },
+    {
+      "nombre": "Sherman",
+      "id": 11
+    },
+    {
+      "nombre": "Sherman",
+      "id": 12
+    },
+    {
+      "nombre": "Sherman",
+      "id": 13
+    },
+    {
+      "nombre": "Sherman",
+      "id": 14
+    },
+    {
+      "nombre": "Sherman",
+      "id": 15
+    },
+    {
+      "nombre": "Sherman",
+      "id": 16
+    },
+    {
+      "nombre": "Sherman",
+      "id": 17
+    }
+  ]
 }
